@@ -86,3 +86,21 @@ tr:nth-child(even) {
     color: #a8002b;
     text-decoration: underline;
 }
+
+.lista-generos {
+    list-style-type: square;
+}
+
+.lista-generos li {
+    margin: 4px 0;
+}
+
+.menu-navegacao {
+    color: rgb(255, 25, 75);
+    font-weight: bold;
+}
+
+.menu-navegacao:hover,
+.menu-navegacao:focus-visible {
+    color: #a8002b;
+}
