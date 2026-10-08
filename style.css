@@ -76,3 +76,13 @@ tr:nth-child(even) {
     font-size: 1.2rem;
     -webkit-text-stroke: 0.5px rgb(0, 0, 0);
 }
+
+.link {
+    color: rgb(255, 25, 75);
+    text-decoration: none;
+}
+
+.link:hover {
+    color: #a8002b;
+    text-decoration: underline;
+}
