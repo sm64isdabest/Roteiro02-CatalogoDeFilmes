@@ -64,3 +64,15 @@ th {
 tr:nth-child(even) {
     background-color: #e0e0e0;
 }
+
+.imagem-flutuante {
+    width: 90px;
+    float: right;
+    margin: 0 0 10px 15px;
+}
+
+.texto-contato {
+    color: rgb(0, 0, 0);
+    font-size: 1.2rem;
+    -webkit-text-stroke: 0.5px rgb(0, 0, 0);
+}
