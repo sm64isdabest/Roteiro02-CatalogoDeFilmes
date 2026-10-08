@@ -7,6 +7,20 @@ h1 {
     text-shadow: 2px 2px 3px pink;
 }
 
-h2 {
+.subtitulo {
     font-style: italic;
+}
+
+.destaque {
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 5px;
+    margin: 1rem;
+    background-color: #b5b5b5;
+}
+
+.poster {
+    width: 200px;
+    border-radius: 10px;
+    border: 2px solid black;
 }
